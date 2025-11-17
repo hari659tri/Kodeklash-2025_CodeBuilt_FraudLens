@@ -82,3 +82,4 @@ virtualenv==20.27.0
 watchdog==4.0.2
 Werkzeug==3.0.1
 xgboost==2.1.1
+streamlit-extras==0.4.0

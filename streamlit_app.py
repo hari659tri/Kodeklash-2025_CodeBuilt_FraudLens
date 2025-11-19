@@ -756,7 +756,7 @@ def app():
         st.rerun()
 
 if __name__ == '__main__':
-  # st.set_page_config(page_title="FraudLense App", page_icon="https://github.com/user-attachments/assets/662c2283-a6c9-471a-a2cd-b4173c64cd54")
+  # st.set_page_config(page_title=" App", page_icon="https://github.com/user-attachments/assets/662c2283-a6c9-471a-a2cd-b4173c64cd54")
   
   if 'button_clicked' not in st.session_state:
     st.session_state.button_clicked = False
@@ -767,10 +767,10 @@ if __name__ == '__main__':
     with col1:
       st.image('https://github.com/user-attachments/assets/662c2283-a6c9-471a-a2cd-b4173c64cd54', width=100)
     with col2:
-      st.title("FraudLense")
+      st.title("FraudLens")
   
   if not st.session_state.button_clicked:
-    st.toast("Welcome to the FraudLense App!", icon="🎉")
+    st.toast("Welcome to the FraudLens App!", icon="🎉")
     time.sleep(2)
     st.toast("Please wait while we load the application...", icon="⏳")
     downloadFiles()

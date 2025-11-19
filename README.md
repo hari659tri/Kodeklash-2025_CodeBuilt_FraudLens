@@ -21,10 +21,13 @@ As India rapidly transitions into a digital-first economy, online payment fraud 
 FraudLense solves these challenges by combining:
 
 - ⚡ **Real-time ML inference**  
-- 📉 **Dimensionality reduction (394 → 53 features)**  
+- 📉 **Dimensionality reduction (394 → 53 optimized features)**  
 - 🤖 **XGBoost with tuned hyperparameters**  
 - 🧩 **KMeans clustering for behavioral pattern detection**  
 - 🖥️ **A smooth, interactive Streamlit UI**
+- 📂 **Clean ML pipeline with preprocessing, training, and evaluation**
+- 📊 **Achieved 0.9456 Mean AUC ROC**
+- 🛡️ **Helps identify fraud before it causes financial loss**
 
 The result is a fast, reliable, scalable solution ready for real-world fintech deployment.
 

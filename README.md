@@ -162,9 +162,7 @@ Accuracy depends on input quality, preprocessing, and dataset limitations.
 ---
 
 ## 👥 Team  
-- **Harikesh Tripathi**  
-- **Sandhya Pandey**  
-- **Utkarsh Pandey**
+- **Harikesh Tripathi**
 
 ---
 
